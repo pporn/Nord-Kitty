@@ -1,1 +1,1 @@
-# Nord Thmeme for Kitty
+# Nord Theme for Kitty
